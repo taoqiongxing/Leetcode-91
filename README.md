@@ -1,8 +1,10 @@
 # Leetcode-91 & 字节跳动第三批算法岗笔试-第四题(2019.09.08)
-解码方法——超简单解法
 
-## Leetcode-91
+## Leetcode-91 解码方法
+
 题目链接：https://leetcode-cn.com/problems/decode-ways/
+
+超简单解法
 
     d=ord('A')-ord('1')
     ins=input()[1:-1]
